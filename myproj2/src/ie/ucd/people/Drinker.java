@@ -1,5 +1,5 @@
 /*class that represents a person who can drink non alcoholic and alcoholic drinks
- * also contains main */
+ * also contains main function */
 
 package ie.ucd.people;
 
